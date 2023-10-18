@@ -48,7 +48,7 @@ function html() {
 
         let image = document.createElement('img');
         image.id = 'myImage';
-        image.src = './chrysanthumum copy 3.jpeg'
+        image.src = 'chrysanthumum copy 3.jpeg'
         document.body.prepend(image);
 
         let myLink = document.createElement('a');
